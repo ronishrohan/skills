@@ -1,16 +1,8 @@
 {
-  "name": "ronishrohan-skills",
-  "owner": {
-    "name": "Ronish Rohan"
-  },
-  "metadata": {
-    "description": "Ronish's plugin marketplace for Claude Code and Cursor."
-  },
+  "name": "ronishrohan",
+  "owner": { "name": "Ronish Rohan" },
+  "metadata": { "description": "Ronish's agent skills." },
   "plugins": [
-    {
-      "name": "rstack",
-      "source": "./rstack",
-      "description": "Ronish's agent skills: workflows and principles for Claude Code and Cursor."
-    }
+    { "name": "skills", "source": "./", "description": "Ronish's agent skills. Plain SKILL.md folders that work in any agent that supports the Agent Skills format." }
   ]
 }
