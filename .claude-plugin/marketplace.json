@@ -1,11 +1,16 @@
 {
   "name": "ronishrohan-skills",
-  "owner": { "name": "Ronish Rohan" },
+  "owner": {
+    "name": "Ronish Rohan"
+  },
+  "metadata": {
+    "description": "Ronish's plugin marketplace for Claude Code and Cursor."
+  },
   "plugins": [
     {
-      "name": "ronish-skills",
-      "source": "./",
-      "description": "Ronish's personal collection of Claude Code skills."
+      "name": "rstack",
+      "source": "./rstack",
+      "description": "Ronish's agent skills: workflows and principles for Claude Code and Cursor."
     }
   ]
 }

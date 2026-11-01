@@ -1,0 +1,14 @@
+{
+  "name": "rstack",
+  "version": "0.1.0",
+  "description": "Ronish's agent skills: workflows and principles for Claude Code and Cursor.",
+  "author": { "name": "Ronish Rohan" },
+  "homepage": "https://github.com/ronishrohan/skills/tree/main/rstack",
+  "repository": "https://github.com/ronishrohan/skills",
+  "license": "MIT",
+  "keywords": ["rstack", "skills", "workflow", "agents"],
+  "displayName": "rstack",
+  "category": "developer-tools",
+  "skills": "./skills/",
+  "agents": "./agents/"
+}
