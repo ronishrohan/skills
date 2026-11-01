@@ -23,10 +23,9 @@ as a plugin, where your agent supports one:
 
 ## skills
 
-_none yet._
-
 | skill | for |
 |---|---|
+| [pr-review](./skills/pr-review/SKILL.md) | review a pr diff for p0, p1 and p2 issues, split into blocking and non-blocking |
 
 ## layout
 
