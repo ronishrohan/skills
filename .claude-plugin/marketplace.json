@@ -1,0 +1,11 @@
+{
+  "name": "ronishrohan-skills",
+  "owner": { "name": "Ronish Rohan" },
+  "plugins": [
+    {
+      "name": "ronish-skills",
+      "source": "./",
+      "description": "Ronish's personal collection of Claude Code skills."
+    }
+  ]
+}
