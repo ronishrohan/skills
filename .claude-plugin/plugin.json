@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "skills",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "Ronish's agent skills. Plain SKILL.md folders that work in any agent that supports the Agent Skills format.",
   "author": { "name": "Ronish Rohan" },
   "homepage": "https://github.com/ronishrohan/skills",
