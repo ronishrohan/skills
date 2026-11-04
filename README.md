@@ -28,6 +28,7 @@ as a plugin, where your agent supports one:
 | [pr-review](./skills/pr-review/SKILL.md) | review a pr diff for p0, p1 and p2 issues, split into blocking and non-blocking |
 | [proto](./skills/proto/SKILL.md) | create N distinct design prototypes in one HTML file and open it in your default browser |
 | [show-me](./skills/show-me/SKILL.md) | explain or demonstrate something in a Sodium-styled HTML page with diagrams, images, links, and interaction |
+| [ship-it](./skills/ship-it/SKILL.md) | review and fix every finding before opening a PR, document the fixes, attach requested screenshots, and leave checks to GitHub |
 
 ## layout
 
