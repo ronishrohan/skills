@@ -1,6 +1,6 @@
 {
   "name": "skills",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Ronish's agent skills. Plain SKILL.md folders that work in any agent that supports the Agent Skills format.",
   "author": { "name": "Ronish Rohan" },
   "homepage": "https://github.com/ronishrohan/skills",
